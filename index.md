@@ -11,7 +11,7 @@
 
 >Memes like "Only 90's kids will remember" are **NOT** memes. They are nostalgic shitposts.
 
->Racist, political, misogynist and other offensive memes are allowed until you are joking and not seriously a low-minded creature.
+>Racist, political, misogynistic and other offensive memes are allowed only if you are joking and not seriously a low-minded creature.
 
 ### Anyone violating the above rules will be forgiven the first time, but will be suspended from messaging for a maximum of 6 hours, considering the *illegality* of their deeds
 
