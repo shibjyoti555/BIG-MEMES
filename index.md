@@ -15,6 +15,6 @@
 
 ### Anyone violating the above rules will be forgiven the first time, but will be suspended from messaging for a maximum of 6 hours, considering the *illegality* of their deeds
 
-I aggree with the rules and want to [join](https://chat.whatsapp.com/CCBOT11CHKj83ROMdICfBN) "BIG MEMES (⌐■_■)"
+# I aggree with the rules and want to [join](https://chat.whatsapp.com/CCBOT11CHKj83ROMdICfBN) "BIG MEMES (⌐■_■)"
 
 <sub>*unfunny memes also include stale memes that are circulating through everyone's statuses and social media pages excessively and everybody has already seen them</sub>
