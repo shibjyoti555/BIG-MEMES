@@ -1,6 +1,7 @@
 ![The BIG MEMES (⌐■_■)](https://suryacoaching.com/ssff/big.png)
+## The BIG MEMES (⌐■_■) Whatsapp group
 
-# The rules of the group
+## The rules of the group
 
 >No unfunny memes*.
 
@@ -12,7 +13,7 @@
 
 >Racist, political, misogynist and other ovvensive memes are allowed until you are joking and not seriously a low-minded creature.
 
-# Anyone violating the above rules will be forgiven the first time, but will be suspended from messaging for a maximum of 6 hours, considering the *illegality* of their deeds
+### Anyone violating the above rules will be forgiven the first time, but will be suspended from messaging for a maximum of 6 hours, considering the *illegality* of their deeds
 
 I aggree with the rules and want to [join](https://chat.whatsapp.com/CCBOT11CHKj83ROMdICfBN) "BIG MEMES (⌐■_■)"
 
