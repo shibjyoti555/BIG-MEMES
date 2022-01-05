@@ -17,4 +17,6 @@
 
 # I aggree with the rules and want to [join](https://chat.whatsapp.com/CCBOT11CHKj83ROMdICfBN) "BIG MEMES (⌐■_■)"
 
+For those stupid bastards who can not find the invite link, it is up there. Press the "join"
+
 <sub>*unfunny memes also include stale memes that are circulating through everyone's statuses and social media pages excessively and everybody has already seen them</sub>
