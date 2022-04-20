@@ -7,7 +7,7 @@
 
 >Definitely - HEY! LISTEN TO ME! - DEFINITELY ***NO UNFUNNY MEMES****.
 
->NSFW memes **must** me a view once.
+>NSFW memes **must** be a view once.
 
 >Memes like "Only 90's kids will remember" are **NOT** memes. They are nostalgic shitposts.
 
