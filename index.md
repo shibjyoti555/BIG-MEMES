@@ -13,6 +13,12 @@
 
 >Racist, political, misogynistic and other offensive memes are allowed only if you are joking and not seriously a low-minded creature.
 
+>Try to understand the jokes because obviously everyone is joking
+
+>EACH AND EVERY THING - I repeat - EACH AND EVERY THING sent in this group is a GODDAMN JOKE
+
+>If you find a joke/meme offensive, please try to cope with it; and, in case, it is too offensive to be avoided, you can complain against them in the group. The offender will be banned accordingly after examining the joke/meme
+
 ### Anyone violating the above rules will be forgiven the first time, but will be suspended from messaging for a maximum of 6 hours, considering the *illegality* of their deeds
 
 # I aggree with the rules and want to [join](https://chat.whatsapp.com/CCBOT11CHKj83ROMdICfBN) "BIG MEMES (⌐■_■)"
