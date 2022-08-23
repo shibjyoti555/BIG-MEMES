@@ -13,7 +13,7 @@
 
 >Racist, political, misogynistic and other offensive memes are allowed only if you are joking and not seriously a low-minded creature.
 
->Try to understand the jokes because obviously everyone is joking
+>Try to understand the jokes, because obviously, everyone is joking
 
 >EACH AND EVERY THING - I repeat - EACH AND EVERY THING sent in this group is a GODDAMN JOKE
 
