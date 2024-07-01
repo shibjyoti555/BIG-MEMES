@@ -1,0 +1,124 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 10px;
+	padding: 0;
+	background-color: #121212;
+	/* Dark background color */
+	color: #fff;
+	/* White text color */
+}
+
+h2 {
+	font-size: 24px;
+}
+
+ul {
+	list-style-type: disc;
+	margin-left: 20px;
+	font-size: 18px;
+	color: #aaa;
+	/* Lighter text color for lists */
+}
+
+p {
+	margin: 10px 0;
+	font-size: 20px;
+	padding: 10px;
+	color: #bbb;
+	/* Lighter text color for paragraphs */
+}
+
+sub {
+	font-size: 16px;
+	color: #999;
+	/* Lighter text color for sub-elements */
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+a {
+	color: #4da2e1;
+	/* Blue text color for links */
+}
+
+.star {
+	text-decoration: underline;
+}
+
+.checkbox-container {
+	margin: 20px 0;
+	font-size: 18px;
+}
+
+#agree-checkbox {
+	display: inline-block;
+	margin-right: 10px;
+	vertical-align: middle;
+}
+
+#submit-button {
+	font-size: 20px;
+	padding: 10px 20px;
+	background-color: #4da2e1;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+}
+
+#submit-button:disabled {
+	opacity: 0.5;
+}
+
+.switch {
+	position: relative;
+	display: inline-block;
+	width: 60px;
+	height: 34px;
+}
+
+.switch input {
+	opacity: 0;
+	width: 0;
+	height: 0;
+}
+
+.slider {
+	position: absolute;
+	cursor: pointer;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #ccc;
+	transition: .3s;
+	border-radius: 34px;
+}
+
+.slider:before {
+	position: absolute;
+	content: "🌞";
+	height: 26px;
+	width: 26px;
+	left: 4px;
+	bottom: 4px;
+	background-color: white;
+	transition: .3s;
+	border-radius: 50%;
+}
+
+input:checked+.slider {
+	background-color: #4da2e1;
+}
+
+input:checked+.slider:before {
+	transform: translateX(26px);
+	content: "🌜";
+}
+
+.light-theme {
+	background-color: #fff;
+	color: black
+}
